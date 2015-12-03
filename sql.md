@@ -117,7 +117,7 @@ SQL:
 INSERT INTO `bikinz_test`.`trip_details` (`trip_id`, `trip_type`, `time_frame_for_daily`, `days_info_id`, `flexible`, `flexible_minutes`, `date`, `reason`, `from_address_id`, `to_address_id`, `departure_time`, `ride`, `car_id`, `no_passengers`, `min_compensation`, `max_compensation`, `notes`) VALUES (NULL, 'NON-DAILY', 'SEMESTER', '2', '1', '20', '2015-12-02', 'Work', '2', '1', '06:20:00', 'OFFERED', '2', '4', '4', '15', 'Non smoking');
 ```
 #### Question 17:
-List department that has the least number of commuters
+#####List department that has the least number of commuters
 SQL:
 ```
 SELECT  COUNT( `f`.`trip_user_detail_id`) AS `trip`,`d`.`dept_name` FROM  `trip_user_details` f 
