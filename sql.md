@@ -46,6 +46,7 @@ Show all feedback for each user
 SQL:
 ```
 SELECT `u`.`first_name`, `u`.`last_name`,`f`.`notes` FROM `user_information` u , `user_feedback` f WHERE  `u`.`user_id` = `f`.`user_id` 
+```
 #### Question 8:
 Show all feedback for each user within last month
 SQL:
