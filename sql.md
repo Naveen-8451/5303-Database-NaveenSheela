@@ -68,10 +68,10 @@ SELECT `manufacturer`, `model`, `year` FROM `car_information` GROUP BY `model`
 11 : Find the ratio of men/smoker to women/smoker
 SQL:
 ```
-- Get smoker count
+#####Get smoker count
 SELECT COUNT(`optional_info_id`) AS `total`, `sex`, `smoker` FROM `user_optional_info` WHERE `smoker` = 'YES' GROUP BY `sex`
 
-- Get nonsmoker count
+#####Get nonsmoker count
 SELECT COUNT(`optional_info_id`) AS `total`, `sex`, `smoker` FROM `user_optional_info` WHERE `smoker` = 'NO' GROUP BY `sex`
 
 SELECT * FROM `user_optional_info` WHERE `smoker` = “YES” GROUP BY `sex`
@@ -90,12 +90,13 @@ SQL:
 SELECT  COUNT(`f`.`feedback_id`) AS `total_feedback`, `u`.`first_name`, `u`.`last_name` FROM `user_information` u , `user_feedback` f WHERE  `u`.`user_id` = `f`.`user_id`  GROUP BY `u`.`user_id`
 ```
 #### Question 14:
-Find all commuters who offer rides on Friday
+Find all commuters who offer rides on Friday 
+#####day_id = Friday
 SQL:
 ```
 SELECT  `u`.`first_name`, `u`.`last_name` FROM `user_information` u , `trip_detail` f WHERE  `u`.`user_id` = `f`.`user_id`  AND `f`.`days_id` = 5
 
-*day_id = Friday
+
 ```
 #### Question 15:
 
