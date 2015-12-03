@@ -126,7 +126,7 @@ INNER JOIN `department` d  ON  `u`.`dept_id` = `d`.`dept_id`
 GROUP BY`d`.`dept_name` ORDER BY `trip` ASC
 ```
 #### Question 18:
-Find the cheapest / most expensive trips
+#####Find the cheapest / most expensive trips
 ##### Cheapest by days_id
 SQL
 ```
