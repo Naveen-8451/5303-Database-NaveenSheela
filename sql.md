@@ -66,12 +66,15 @@ SELECT `manufacturer`, `model`, `year` FROM `car_information` GROUP BY `model`
 ```
 #### Question 11:
 11 : Find the ratio of men/smoker to women/smoker
+#####Get smoker count
 SQL:
 ```
-#####Get smoker count
-SELECT COUNT(`optional_info_id`) AS `total`, `sex`, `smoker` FROM `user_optional_info` WHERE `smoker` = 'YES' GROUP BY `sex`
 
+SELECT COUNT(`optional_info_id`) AS `total`, `sex`, `smoker` FROM `user_optional_info` WHERE `smoker` = 'YES' GROUP BY `sex`
+```
 #####Get nonsmoker count
+SQL:
+```
 SELECT COUNT(`optional_info_id`) AS `total`, `sex`, `smoker` FROM `user_optional_info` WHERE `smoker` = 'NO' GROUP BY `sex`
 
 SELECT * FROM `user_optional_info` WHERE `smoker` = “YES” GROUP BY `sex`
