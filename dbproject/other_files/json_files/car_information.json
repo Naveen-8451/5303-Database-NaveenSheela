@@ -1,0 +1,401 @@
+[
+	{
+		"car_id" : car_id,
+		"user_id" : user_id,
+		"manufacturer" : "manufacturer",
+		"year" : year,
+		"model" : "model"
+	},
+	{
+		"car_id" : 1,
+		"user_id" : 1,
+		"manufacturer" : "Volkswagen",
+		"year" : 1998,
+		"model" : "Golf"
+	},
+	{
+		"car_id" : 2,
+		"user_id" : 2,
+		"manufacturer" : "Honda",
+		"year" : 2005,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 3,
+		"user_id" : 3,
+		"manufacturer" : "Honda",
+		"year" : 2012,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 4,
+		"user_id" : 5,
+		"manufacturer" : "Toyota",
+		"year" : 2014,
+		"model" : "Prius"
+	},
+	{
+		"car_id" : 5,
+		"user_id" : 6,
+		"manufacturer" : "Toyota",
+		"year" : 2003,
+		"model" : "Camry"
+	},
+	{
+		"car_id" : 6,
+		"user_id" : 9,
+		"manufacturer" : "Toyota",
+		"year" : 1995,
+		"model" : "Corolla"
+	},
+	{
+		"car_id" : 7,
+		"user_id" : 11,
+		"manufacturer" : "Honda",
+		"year" : 1998,
+		"model" : "Accord"
+	},
+	{
+		"car_id" : 8,
+		"user_id" : 12,
+		"manufacturer" : "Honda",
+		"year" : 2005,
+		"model" : "Accord"
+	},
+	{
+		"car_id" : 9,
+		"user_id" : 13,
+		"manufacturer" : "Volkswagen",
+		"year" : 2012,
+		"model" : "Jetta"
+	},
+	{
+		"car_id" : 10,
+		"user_id" : 15,
+		"manufacturer" : "Volkswagen",
+		"year" : 2014,
+		"model" : "Jetta"
+	},
+	{
+		"car_id" : 11,
+		"user_id" : 16,
+		"manufacturer" : "Volkswagen",
+		"year" : 2003,
+		"model" : "Toureq"
+	},
+	{
+		"car_id" : 12,
+		"user_id" : 19,
+		"manufacturer" : "Volkswagen",
+		"year" : 1995,
+		"model" : "Toureq"
+	},
+	{
+		"car_id" : 13,
+		"user_id" : 21,
+		"manufacturer" : "Mazda",
+		"year" : 1998,
+		"model" : "3"
+	},
+	{
+		"car_id" : 14,
+		"user_id" : 22,
+		"manufacturer" : "Mazda",
+		"year" : 2005,
+		"model" : "5"
+	},
+	{
+		"car_id" : 15,
+		"user_id" : 24,
+		"manufacturer" : "Mazda",
+		"year" : 2012,
+		"model" : "6"
+	},
+	{
+		"car_id" : 16,
+		"user_id" : 25,
+		"manufacturer" : "Mazda",
+		"year" : 2014,
+		"model" : "2"
+	},
+	{
+		"car_id" : 17,
+		"user_id" : 28,
+		"manufacturer" : "Mazda",
+		"year" : 2003,
+		"model" : "2"
+	},
+	{
+		"car_id" : 18,
+		"user_id" : 31,
+		"manufacturer" : "Mazda",
+		"year" : 1995,
+		"model" : "2"
+	},
+	{
+		"car_id" : 19,
+		"user_id" : 32,
+		"manufacturer" : "Volkswagen",
+		"year" : 1998,
+		"model" : "Jetta"
+	},
+	{
+		"car_id" : 20,
+		"user_id" : 33,
+		"manufacturer" : "Volkswagen",
+		"year" : 2005,
+		"model" : "Toureq"
+	},
+	{
+		"car_id" : 21,
+		"user_id" : 35,
+		"manufacturer" : "Mazda",
+		"year" : 2012,
+		"model" : "2"
+	},
+	{
+		"car_id" : 22,
+		"user_id" : 36,
+		"manufacturer" : "Volkswagen",
+		"year" : 2014,
+		"model" : "Jetta"
+	},
+	{
+		"car_id" : 23,
+		"user_id" : 39,
+		"manufacturer" : "Volkswagen",
+		"year" : 2003,
+		"model" : "Toureq"
+	},
+	{
+		"car_id" : 24,
+		"user_id" : 41,
+		"manufacturer" : "Mazda",
+		"year" : 1995,
+		"model" : "2"
+	},
+	{
+		"car_id" : 25,
+		"user_id" : 42,
+		"manufacturer" : "Mazda",
+		"year" : 1998,
+		"model" : "2"
+	},
+	{
+		"car_id" : 26,
+		"user_id" : 44,
+		"manufacturer" : "Mazda",
+		"year" : 2005,
+		"model" : "5"
+	},
+	{
+		"car_id" : 27,
+		"user_id" : 45,
+		"manufacturer" : "Mazda",
+		"year" : 2012,
+		"model" : "6"
+	},
+	{
+		"car_id" : 28,
+		"user_id" : 48,
+		"manufacturer" : "Mazda",
+		"year" : 2014,
+		"model" : "2"
+	},
+	{
+		"car_id" : 29,
+		"user_id" : 51,
+		"manufacturer" : "Volkswagen",
+		"year" : 2003,
+		"model" : "Golf"
+	},
+	{
+		"car_id" : 30,
+		"user_id" : 52,
+		"manufacturer" : "Honda",
+		"year" : 1995,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 31,
+		"user_id" : 53,
+		"manufacturer" : "Honda",
+		"year" : 2012,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 32,
+		"user_id" : 55,
+		"manufacturer" : "Toyota",
+		"year" : 2014,
+		"model" : "Prius"
+	},
+	{
+		"car_id" : 33,
+		"user_id" : 56,
+		"manufacturer" : "Toyota",
+		"year" : 1998,
+		"model" : "Camry"
+	},
+	{
+		"car_id" : 34,
+		"user_id" : 59,
+		"manufacturer" : "Volkswagen",
+		"year" : 2005,
+		"model" : "Toureq"
+	},
+	{
+		"car_id" : 35,
+		"user_id" : 61,
+		"manufacturer" : "Mazda",
+		"year" : 2012,
+		"model" : "2"
+	},
+	{
+		"car_id" : 36,
+		"user_id" : 62,
+		"manufacturer" : "Volkswagen",
+		"year" : 2014,
+		"model" : "Golf"
+	},
+	{
+		"car_id" : 37,
+		"user_id" : 64,
+		"manufacturer" : "Honda",
+		"year" : 2003,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 38,
+		"user_id" : 65,
+		"manufacturer" : "Honda",
+		"year" : 1995,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 39,
+		"user_id" : 68,
+		"manufacturer" : "Toyota",
+		"year" : 2014,
+		"model" : "Prius"
+	},
+	{
+		"car_id" : 40,
+		"user_id" : 71,
+		"manufacturer" : "Toyota",
+		"year" : 1998,
+		"model" : "Camry"
+	},
+	{
+		"car_id" : 41,
+		"user_id" : 72,
+		"manufacturer" : "Mazda",
+		"year" : 2005,
+		"model" : "6"
+	},
+	{
+		"car_id" : 42,
+		"user_id" : 73,
+		"manufacturer" : "Mazda",
+		"year" : 2012,
+		"model" : "2"
+	},
+	{
+		"car_id" : 43,
+		"user_id" : 75,
+		"manufacturer" : "Honda",
+		"year" : 2014,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 44,
+		"user_id" : 76,
+		"manufacturer" : "Toyota",
+		"year" : 2003,
+		"model" : "Prius"
+	},
+	{
+		"car_id" : 45,
+		"user_id" : 79,
+		"manufacturer" : "Toyota",
+		"year" : 1995,
+		"model" : "Camry"
+	},
+	{
+		"car_id" : 46,
+		"user_id" : 81,
+		"manufacturer" : "Toyota",
+		"year" : 1998,
+		"model" : "Corolla"
+	},
+	{
+		"car_id" : 47,
+		"user_id" : 82,
+		"manufacturer" : "Honda",
+		"year" : 2005,
+		"model" : "Accord"
+	},
+	{
+		"car_id" : 48,
+		"user_id" : 84,
+		"manufacturer" : "Mazda",
+		"year" : 2012,
+		"model" : "2"
+	},
+	{
+		"car_id" : 49,
+		"user_id" : 85,
+		"manufacturer" : "Mazda",
+		"year" : 2014,
+		"model" : "5"
+	},
+	{
+		"car_id" : 50,
+		"user_id" : 88,
+		"manufacturer" : "Mazda",
+		"year" : 2003,
+		"model" : "6"
+	},
+	{
+		"car_id" : 51,
+		"user_id" : 91,
+		"manufacturer" : "Mazda",
+		"year" : 1995,
+		"model" : "2"
+	},
+	{
+		"car_id" : 52,
+		"user_id" : 92,
+		"manufacturer" : "Honda",
+		"year" : 2012,
+		"model" : "Civic"
+	},
+	{
+		"car_id" : 53,
+		"user_id" : 93,
+		"manufacturer" : "Toyota",
+		"year" : 2014,
+		"model" : "Prius"
+	},
+	{
+		"car_id" : 54,
+		"user_id" : 95,
+		"manufacturer" : "Toyota",
+		"year" : 1998,
+		"model" : "Camry"
+	},
+	{
+		"car_id" : 55,
+		"user_id" : 96,
+		"manufacturer" : "Toyota",
+		"year" : 2005,
+		"model" : "Corolla"
+	},
+	{
+		"car_id" : 56,
+		"user_id" : 99,
+		"manufacturer" : "Honda",
+		"year" : 2012,
+		"model" : "Accord"
+	}
+]

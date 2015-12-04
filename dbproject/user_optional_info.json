@@ -1,0 +1,1012 @@
+[
+	{
+		"optional_info_id" : optional_info_id,
+		"age" : age,
+		"sex" : "sex",
+		"smoker" : "smoker",
+		"current_commute" : "current_commute",
+		"min_cost_comp" : min_cost_comp,
+		"max_cost_comp" : max_cost_comp,
+		"preference" : "preference"
+	},
+	{
+		"optional_info_id" : 1,
+		"age" : 40,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 5,
+		"max_cost_comp" : 10,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 2,
+		"age" : 20,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 3,
+		"age" : 19,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 4,
+		"age" : 18,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 5,
+		"age" : 19,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 6,
+		"age" : 33,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 7,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 8,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 9,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 10,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 11,
+		"age" : 34,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 5,
+		"max_cost_comp" : 10,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 12,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 13,
+		"age" : 16,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 14,
+		"age" : 55,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 15,
+		"age" : 38,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 16,
+		"age" : 39,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 17,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 18,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 19,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 20,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 21,
+		"age" : 20,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 22,
+		"age" : 19,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 23,
+		"age" : 18,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 24,
+		"age" : 19,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 25,
+		"age" : 33,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 26,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 27,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 28,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 29,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 30,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 31,
+		"age" : 34,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 5,
+		"max_cost_comp" : 10,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 32,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 33,
+		"age" : 16,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 34,
+		"age" : 55,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 35,
+		"age" : 38,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 36,
+		"age" : 39,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 37,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 38,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 39,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 40,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 41,
+		"age" : 20,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 42,
+		"age" : 19,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 43,
+		"age" : 18,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 44,
+		"age" : 19,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 45,
+		"age" : 33,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 46,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 47,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 48,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 49,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 50,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 51,
+		"age" : 34,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 5,
+		"max_cost_comp" : 10,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 52,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 53,
+		"age" : 16,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 54,
+		"age" : 55,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 55,
+		"age" : 38,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 56,
+		"age" : 39,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 57,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 58,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 59,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 60,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 61,
+		"age" : 20,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 62,
+		"age" : 19,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 63,
+		"age" : 18,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 64,
+		"age" : 19,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 65,
+		"age" : 33,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 66,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 67,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 68,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 69,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 70,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 71,
+		"age" : 34,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 5,
+		"max_cost_comp" : 10,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 72,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 73,
+		"age" : 16,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 74,
+		"age" : 55,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 75,
+		"age" : 38,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 76,
+		"age" : 39,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 77,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 78,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 79,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 80,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 81,
+		"age" : 20,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 82,
+		"age" : 19,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 83,
+		"age" : 18,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 84,
+		"age" : 19,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 85,
+		"age" : 33,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 86,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 87,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 88,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 89,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 90,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 91,
+		"age" : 34,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 5,
+		"max_cost_comp" : 10,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 92,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 20,
+		"max_cost_comp" : 30,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 93,
+		"age" : 16,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 23,
+		"max_cost_comp" : 35,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 94,
+		"age" : 55,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "OTHERS",
+		"min_cost_comp" : 12,
+		"max_cost_comp" : 35,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 95,
+		"age" : 38,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "DRIVE ALONE",
+		"min_cost_comp" : 18,
+		"max_cost_comp" : 25,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 96,
+		"age" : 39,
+		"sex" : "M",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 3,
+		"max_cost_comp" : 5,
+		"preference" : "PASSENGER ONLY"
+	},
+	{
+		"optional_info_id" : 97,
+		"age" : 22,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 98,
+		"age" : 22,
+		"sex" : "M",
+		"smoker" : "YES",
+		"current_commute" : "BUS",
+		"min_cost_comp" : 6,
+		"max_cost_comp" : 12,
+		"preference" : "SHARE DRIVING"
+	},
+	{
+		"optional_info_id" : 99,
+		"age" : 45,
+		"sex" : "F",
+		"smoker" : "NO",
+		"current_commute" : "CAR POOL",
+		"min_cost_comp" : 4,
+		"max_cost_comp" : 12,
+		"preference" : "DRIVE ONLY"
+	},
+	{
+		"optional_info_id" : 100,
+		"age" : 20,
+		"sex" : "F",
+		"smoker" : "YES",
+		"current_commute" : "TRAIN",
+		"min_cost_comp" : 8,
+		"max_cost_comp" : 15,
+		"preference" : "SHARE DRIVING"
+	}
+]

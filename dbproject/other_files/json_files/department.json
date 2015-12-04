@@ -1,0 +1,22 @@
+[
+	{
+		"dept_id" : dept_id,
+		"dept_name" : "dept_name"
+	},
+	{
+		"dept_id" : 1,
+		"dept_name" : "Information Technology"
+	},
+	{
+		"dept_id" : 2,
+		"dept_name" : "Human Resources"
+	},
+	{
+		"dept_id" : 3,
+		"dept_name" : "Finance"
+	},
+	{
+		"dept_id" : 4,
+		"dept_name" : "General Admin"
+	}
+]
