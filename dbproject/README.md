@@ -27,7 +27,7 @@
     - assets/css - contains all css files.
     - assets/js - contains all js files.
     
-- documents - contains all documents for project
+- documents - folder containing all documents for project
     - load_data.sql - script to load database with test data.
     - query_data.sql -  Performed queries.
 	- csv_load_data (folder) - contains all csv files related to tables.
