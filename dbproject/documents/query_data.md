@@ -112,6 +112,7 @@ total_trip	first_name	last_name
 Calculate the longest trip
 SQL
 ```
+we do not have data to caluclate distance between "source to destination"
 ```
 #### Question 5:
 Find average cost of a trip
@@ -264,6 +265,9 @@ date		first_name	last_name	notes
 Find the user that has the most time in route (total and monthly)
 SQL
 ```
+we do not have data to caluclate distance like ("source to destination")
+we can't calculate the user who travel most in route.
+it is related to distance table.. with Question 4.
 ```
 #### Question 10:
 Show all different type of car
