@@ -11,8 +11,8 @@
 
 - http://cs3.mwsu.edu/~nsheela/dbproject/site/login1.php
 - Login Details are:
-	-Username : Aaron
-	-Password : 12345
+	- Username : Aaron
+	- Password : 12345
 
 ### File List:
 >
