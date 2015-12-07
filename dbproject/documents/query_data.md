@@ -375,6 +375,7 @@ total_feedback	first_name	last_name
 #### Question 14:
 Find all commuters who offer rides on Friday 
 #####day_id = Friday
+
 SQL:
 ```
 SELECT  `u`.`first_name`, `u`.`last_name` FROM `user_information` u , `trip_detail` f WHERE  `u`.`user_id` = `f`.`user_id`  AND `f`.`days_id` = 5
